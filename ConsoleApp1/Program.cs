@@ -13,7 +13,7 @@ namespace Mira
             //    Console.WriteLine(rezultat);
             //    rezultat = rezultat + mtt.Saberi(2, 4);
             //    Console.WriteLine(rezultat);
-
+            //Neki komentar
             //    bool tt = false;
             //    Console.WriteLine(tt);
 
